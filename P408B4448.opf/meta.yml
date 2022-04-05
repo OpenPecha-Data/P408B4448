@@ -1,0 +1,32 @@
+id: P408B4448
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA23784
+  instance_id: http://purl.bdrc.io/resource/IE23784
+  collection_id: http://purl.bdrc.io/resource/PR0ET002
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསུང་འབུམ། ཤེས་རབ་འབྱུང་གནས།
+  alt_title:
+    en-x-mixed:
+    - The collected works (gsuṅ ʾbum) of Spyan sṅa Śes rab ʾbyuṅ gnas, a chief disciple
+      of the Skyob-pa-ʾjig-rten-gsum-mgon, 1187-1241 /[edited] by Drikung Kyabgon
+      Chetsang (Konchog Tenzin Kunzang Thinley Lhundub).
+  author: http://purl.bdrc.io/resource/P131
+  publisher: DrikungChetsang
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    2ac1d96466f641948ce95663ca1c4559:
+      title: ༄༅།་།ཁམས་གསུམ་ཆོས་ཀྱི་རྒྱལ་པོ་ཐུབ་དབང་རཏྣ་ཤྲཱིའི་ཐུགས་སྲས་སྤྱན་སྔ་ཤེས་རབ་འབྱུང་གནས་ཀྱི་གསུང་འབུམ་བཞུགས་སོ།་།
+      volume_number: 1
+      base_file: UT23784_001_0001.txt
+      reference: http://purl.bdrc.io/resource/VL3EA43971EA001211
+      image_group: null
+      quality: null
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W23784
+  - http://purl.bdrc.io/resource/MW23784
+created_at: '2021-12-22T11:09:30.075180'
+last_modified_at: '2021-12-22T11:09:30.075188'
